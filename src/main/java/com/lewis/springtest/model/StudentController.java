@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-// Supposed to be the API layer
+// Supposed to be the API layer.
 @RestController
 @RequestMapping(path = "api/v1/student")
 public class StudentController {
